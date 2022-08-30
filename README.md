@@ -1,5 +1,7 @@
 # QR Code API
 
+[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/gv82.svg)](https://betteruptime.com/?utm_source=status_badge)
+
 A REST API built using Flask that returns a QR Code for the submitted query, in a .png format.
 
 The requested url should be like domain_name/?{query}
