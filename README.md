@@ -1,4 +1,4 @@
-# QR-Code-API
+# QR Code API
 
 A REST API built using Flask that returns a QR Code for the submitted query, in a .png format.
 
