@@ -6,9 +6,8 @@ A REST API built using Flask that returns a QR Code for the submitted query, in 
 
 The requested url should be like domain_name/?{query}
 
-Test the API here - https://api.projectrexa.ml/qrcode/?projextrexa.ml
+Test the API here - https://qr-code-api.vercel.app//?projextrexa.ml
 
-Read detailed documentation - https://projectrexa.ml/api-documentation/#3
 # Exapmles - 
 
 ![screencapture-api-projectrexa-ml-qrcode-2022-08-30-10_15_28](https://user-images.githubusercontent.com/96434205/187351579-289b4d72-6909-4927-8632-10b20a0e88fd.png)
