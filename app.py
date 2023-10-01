@@ -1,6 +1,4 @@
 # Made by ProjectRexa
-# Check Documentaion - https://projectrexa.ml/api-documentation/
-
 from flask import Flask,request,send_file
 from flask_qrcode import QRcode
 import re
